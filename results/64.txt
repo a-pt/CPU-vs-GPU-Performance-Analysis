@@ -1,0 +1,71 @@
+Train Algorithm - Stochastic GD
+
+GPU Excecution
+Epoch done
+Accuracy GPU : 91.58
+GPU Time : 120.34985995292664
+
+CPU Excecution
+Epoch done
+Accuracy CPU : 92.30000000000001
+CPU Time : 435.9299886226654
+
+Train Algorithm - Momentum GD
+
+GPU Excecution
+Epoch done
+Accuracy GPU : 94.34
+GPU Time : 120.07957410812378
+
+CPU Excecution
+Epoch done
+Accuracy CPU : 94.67
+CPU Time : 393.4673159122467
+
+Train Algorithm - Nesterov GD
+
+GPU Excecution
+Epoch done
+Accuracy GPU : 95.45
+GPU Time : 136.75283861160278
+
+CPU Excecution
+Epoch done
+Accuracy CPU : 95.57
+CPU Time : 727.6815211772919
+
+Train Algorithm - RmsProp GD
+
+GPU Excecution
+Epoch done
+Accuracy GPU : 92.19000000000001
+GPU Time : 122.67489576339722
+
+CPU Excecution
+Epoch done
+Accuracy CPU : 92.93
+CPU Time : 456.06104588508606
+
+Train Algorithm - Adam GD
+
+GPU Excecution
+Epoch done
+Accuracy GPU : 92.81
+GPU Time : 124.10022759437561
+
+CPU Excecution
+Epoch done
+Accuracy CPU : 92.94
+CPU Time : 461.6944627761841
+
+Train Algorithm - Nadam GD
+
+GPU Excecution
+Epoch done
+Accuracy GPU : 93.52000000000001
+GPU Time : 121.45418620109558
+
+CPU Excecution
+Epoch done
+Accuracy CPU : 93.19
+CPU Time : 451.0518012046814
